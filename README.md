@@ -54,7 +54,7 @@ What is the two-letter country code for this unit?
 Is CN=Muharrem Koc, OU=Technology, O=Technology, L=Turkey, ST=SVS, C=TR correct? 
   [no]:  yes 
 ```
--Last,Copy this certificate in your project/resources
+-Last,Copy this certificate in your project/src/main/resources
 
 ---
 

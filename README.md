@@ -5,6 +5,19 @@
 This Project's goal,Using HTTPS protocol with self-signed licence in Spring Boot
 
 ---
+
+## Using
+
+- Spring Boot DevTools
+- Spring Boot Web
+- Lombok
+- Spring Data-JPA
+- H2 database
+- MapStruct
+- Custom SSL
+
+
+---
 ## Installation
 
 - First,open CMd or PowerShell terminal(Run with Adminstrator(Optional)
@@ -44,16 +57,6 @@ Is CN=Muharrem Koc, OU=Technology, O=Technology, L=Turkey, ST=SVS, C=TR correct?
 -Last,Copy this certificate in your project/resources
 
 ---
-## Using
 
-- Spring Boot DevTools
-- Spring Boot Web
-- Lombok
-- Spring Data-JPA
-- H2 database
-- MapStruct
-- Custom SSL
-
----
 
 [Muharrem Koç](https://github.com/muharremkoc)
